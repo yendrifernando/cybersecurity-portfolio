@@ -1,6 +1,3 @@
-
----
-
 ### 📁 03-syn-flood-analysis/README.md
 
 ```markdown
@@ -27,4 +24,3 @@ Included: Handshake diagram + SYN flood visualization
 
 ## 📚 MITRE Reference
 - T1499.001 (Endpoint DoS: OS Exhaustion Flood)
-
