@@ -8,7 +8,7 @@ Welcome! I'm Yendri, a passionate cybersecurity enthusiast transitioning from IT
 
 - 💼 Entry-level cybersecurity analyst with a solid background in IT support
 - 🎓 Certified in Google Cybersecurity & IT Support programs
-- 📌 Currently completing TryHackMe SOC Level 1 & exploring Splunk, Elastic SIEM
+- 📌 Currently completing TryHackMe SOC Level 1 & exploring Splunk SIEM
 - 🛠️ Focus areas: Log analysis, access control, incident response, Python automation
 - 🔭 Future goals: SOC Tier 1 analyst, threat detection specialist, IR team contributor
 
@@ -18,7 +18,7 @@ Welcome! I'm Yendri, a passionate cybersecurity enthusiast transitioning from IT
 
 | Project | Summary |
 |--------|---------|
-| **[OS Hardening & Web Defacement Incident](./01-os-hardening-incident/)** | Simulated brute-force attack and malware injection on a misconfigured Linux server with mitigation recommendations |
+| **[OS Hardening & Web Defacement Incident](./01-os-hardening-incident/)** | A scenario of brute-force attack and malware injection on a misconfigured Linux server with mitigation recommendations |
 | **[SQL Log Analysis – Suspicious Logins](./02-sql-log-analysis/)** | Used SQL to filter login anomalies based on time, location, and behavior patterns |
 | **[SYN Flood Attack – TCP Exploitation Report](./03-syn-flood-analysis/)** | Explained how attackers abuse the TCP handshake and proposed network-level defenses |
 | **[Python Automation – IP Filter Tool](./04-python-ip-filter/)** | Wrote a Python script to clean IP access files, improving ACL hygiene and accountability |
@@ -27,7 +27,7 @@ Welcome! I'm Yendri, a passionate cybersecurity enthusiast transitioning from IT
 ---
 
 ## 🛠️ Tools & Techniques
-- SIEM: Splunk (Cloud), Elastic Stack (ongoing)
+- SIEM: Splunk (Cloud)
 - Log Triage & Parsing: Linux logs, SQL queries, Python
 - Network Analysis: Wireshark (concepts), TCP/IP
 - Frameworks: MITRE ATT&CK, NIST SP 800-53
@@ -39,7 +39,7 @@ Welcome! I'm Yendri, a passionate cybersecurity enthusiast transitioning from IT
 
 - ✉️ **Email**: yendrifernando@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yendrifernando)  
-- 📦 GitHub repos: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📦 GitHub repos: [github.com/yendrifernando](https://github.com/yendrifernando)
 
 ---
 
