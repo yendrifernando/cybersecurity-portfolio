@@ -27,7 +27,7 @@ Welcome! I'm Yendri, a passionate cybersecurity enthusiast transitioning from IT
 ---
 
 ## 🛠️ Tools & Techniques
-- SIEM: Splunk (Cloud)
+- SIEM: Splunk (ongoing)
 - Log Triage & Parsing: Linux logs, SQL queries, Python
 - Network Analysis: Wireshark (concepts), TCP/IP
 - Frameworks: MITRE ATT&CK, NIST SP 800-53
